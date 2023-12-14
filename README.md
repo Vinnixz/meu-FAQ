@@ -7,4 +7,4 @@ aqui desenvolvi um FAQ e tentei deixar o mais dinâmico possível, espero que vo
 
 ## Visitar projeto FAQ
 
-[FAQ]()
+[FAQ](https://vinnixz.github.io/meu-FAQ/)
